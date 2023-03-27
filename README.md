@@ -8,14 +8,14 @@
 <p align='center'>
    <a href="https://www.linkedin.com/in/lucas-alves-de-souza-92b09b17b/?originalSubdomain=br"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <p align="center">
-  <a href="https://github.com/Lucas-ASouza/Lucas-ASouza">
-    <img src="https://komarev.com/ghpvc/?username=Lucas-ASouza" alt="page views" />
+  <a href="https://github.com/Mazeekel/Mazeekel">
+    <img src="https://komarev.com/ghpvc/?username=Mazeekel" alt="page views" />
   </a>
   <a href="https://reddit.com/u/Mazeekel">
     <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Mazeekel?label=karma&logo=reddit">
   </a>
-  <a href="https://github.com/Lucas-ASouza?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Lucas-ASouza?color=green&logo=github">
+  <a href="https://github.com/Mazeekel?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Mazeekel?color=green&logo=github">
   </a>
  </p>
  
@@ -55,7 +55,7 @@
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Lucas-ASouza&&show_icons=true&theme=dark"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Mazeekel&&show_icons=true&theme=dark"/>
   </a>
 </p>
 
