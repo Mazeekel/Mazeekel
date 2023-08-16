@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Lucas</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   <h1>Heres my current company's github <a>github.com/Lucas-Rock-Clear</a></h1>
+   <h1>Heres my current company's <a href="github.com/Lucas-Rock-Clear">github</a></h1>
    
   
 </div>
