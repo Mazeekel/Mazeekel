@@ -44,7 +44,7 @@
    
  - 🔭 Cosmology enthusiast
 
- - 🛸 Into High Energy Physics and Astrophysics aswell.
+ - 🛸 Into Sci-fy and High Fantasy ⚔️:.
  
  - :crossed_swords: Also a Huge Ancient/Victorian Warfare nerd
  
